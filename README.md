@@ -15,10 +15,7 @@ Sempre gostei desse clássico dos jogos de adivinhação, então decidi criar mi
 O objetivo é simples: adivinhar a palavra secreta antes que a forca seja completada!
 
 - Letras corretas aparecem no lugar certo.
-- Cada letra errada adiciona uma parte do boneco à forca.
-- O jogo termina quando:
-  - Você adivinha toda a palavra ✅
-  - Ou completa a forca ❌
+
 
 ## 🚀 Tecnologias utilizadas
 
@@ -34,7 +31,7 @@ O objetivo é simples: adivinhar a palavra secreta antes que a forca seja comple
 jogo-da-forca/
 │
 ├── public/
-│   └── forca.png          # Print do jogo (usado no README)
+│   └──
 │
 ├── src/
 │   ├── components/        # Componentes React reutilizáveis
@@ -52,13 +49,10 @@ jogo-da-forca/
 
 - Adivinhação de letras com teclado
 - Contagem de erros com limite
-- Mensagens de vitória ou derrota
+- Mensagens de  derrota
 - Reinício do jogo com botão de reset
 - Pontuação dinâmica
 
-## 📸 Demonstração
-
-![Jogo da Forca - Print](./public/forca.png)
 
 ## 📦 Como rodar localmente
 
